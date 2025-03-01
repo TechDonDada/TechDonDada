@@ -1,16 +1,29 @@
-## Hi there 👋
+# Zambian Underdog
+**Self-taught Software Engineer in the Making | Project Zed to Aus 2029**
 
-<!--
-**TechDonDada/TechDonDada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇿🇲 Born in Zambia  
+🇨🇳 Currently studying in China  
+🇦🇺 Destination Australia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Journey:
+🔥 Learning C++  
+🔥 Uploading projects every week  
+🔥 Building #ProjectZedToAus2029  
+
+---
+
+### This GitHub Profile is not just code...  
+This is the story of a boy chasing his dream
+
+---
+
+If you're reading this...  
+**Never bet against the Zambian Underdog.**  
+
+---
+
+#ProjectZedToAus2029  
+#ZambianUnderdog    
+
